@@ -1,0 +1,22 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"UNITY",
+      "main_ads_banner": "KOSONG",
+      "main_ads_intertitial":"KOSONG",
+      "backup_ads_banner":"KODEUNITY",
+      "backup_ads_intertitial":"KODEUNITY",
+      "interval_intertitial": 5,
+      "initialize_sdk":"IDUNITY",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
