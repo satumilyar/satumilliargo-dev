@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "",
+"HOMEURL" : "https://bacaanniatsholatdandoa.blogspot.com/",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Server Ready . . .",
@@ -15,9 +15,9 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : false,
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -30,7 +30,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "3",
+"INTER_COUNT" : "15",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -42,9 +42,9 @@
 
 "STARTAPPID" : "kosong",
 
-"ADMOB_BANNER" : "ca-app-pub-6055654202257393/5347300375",
-"ADMOB_INTER" : "ca-app-pub-6055654202257393/5183648848",
-"ADMOB_NATIV" : "ca-app-pub-6055654202257393/2529565347",
+"ADMOB_BANNER" : "kososng",
+"ADMOB_INTER" : "kosong",
+"ADMOB_NATIV" : "kosong",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
