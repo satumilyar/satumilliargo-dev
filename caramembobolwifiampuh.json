@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "hhttps://caraatasilupapolahp.blogspot.com/",
+"HOMEURL" : "https://bobolwifipalingampuh.blogspot.com/",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Server Ready . . .",
@@ -16,8 +16,8 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -30,7 +30,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "1",
+"INTER_COUNT" : "15",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -40,11 +40,11 @@
 "MODE_OFFLINE_MP3" : false,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
-"STARTAPPID" : "201365479",
+"STARTAPPID" : "kosong",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "kososng",
+"ADMOB_INTER" : "kosong",
+"ADMOB_NATIV" : "kosong",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -71,20 +71,20 @@
 "BUTTON_RATING" : "RATING NOW",
 
 "EXIT_POPUP_DIALOG" : "
-"Agar Kami lebih semangat mengembangkan Aplikasi ini
+Agar Kami Lebih Semangat Mengembangkan Aplikasi Ini
 
-"Bantu kami dengan rating bingtang 5 ya 
+Bantu Kami Dengan Rating Bintang 5 ya 
 
-"Klik tombol rating 
+Klik tombol rating 
 ",
 "RATE_BUTTON" : "Rate 5 Stars",
 "LATER_BUTTON" : "Later",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
-"this app is awesome 
+this app is awesome 
 
-"you need try to donwload this app
-"i.ve download and so much happy
+you need try to donwload this app
+i.ve download and so much happy
 
 ",
 
@@ -95,4 +95,3 @@
 
  }
 }
-
