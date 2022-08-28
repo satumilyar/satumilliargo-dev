@@ -30,7 +30,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "4",
+"INTER_COUNT" : "2",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -73,7 +73,7 @@
 "EXIT_POPUP_DIALOG" : "
 Agar Kami lebih semangat mengembangkan Aplikasi ini
 
-Bantu kami dengan rating bingtang 5 ya 
+Bantu kami dengan rating bintang 5 ya 
 
 Klik tombol rating 
 ",
