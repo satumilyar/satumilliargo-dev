@@ -1,0 +1,22 @@
+{
+    "pc": "com.fhadildroid.bingo",
+    "url_blogger": "https://kumpulancaraberternakhewan.blogspot.com",
+    "url_privacy_policy": "https://java.co.id/privacy-policy",
+    "interval_inter": 3,
+    "link_new_app": "null",
+    "admob": [
+      {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "native": "ca-app-pub-3940256099942544/2247696110"
+      }
+    ],
+    "unity": [
+      {
+        "mode_tes": false,
+        "idapp": "",
+        "banner": "Banner_Android",
+        "inter": "Interstitial_Android"
+      }
+    ]
+  }
