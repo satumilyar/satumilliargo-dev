@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -26,9 +26,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "ca-app-pub-6055654202257393/5507082476",
+"PENGATURAN_IKLAN_INTER" : "ca-app-pub-6055654202257393/5784879109",
+"PENGATURAN_IKLAN_NATIVE" : "ca-app-pub-6055654202257393/2880919132",
 
 "INTER_COUNT" : "15",
 
