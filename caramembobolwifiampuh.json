@@ -26,9 +26,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "ca-app-pub-6055654202257393/4932367401",
-"PENGATURAN_IKLAN_INTER" : "ca-app-pub-6055654202257393/2306204067",
-"PENGATURAN_IKLAN_NATIVE" : "ca-app-pub-6055654202257393/1978901002",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
 "INTER_COUNT" : "15",
 
@@ -42,9 +42,9 @@
 
 "STARTAPPID" : "kosong",
 
-"ADMOB_BANNER" : "kososng",
-"ADMOB_INTER" : "kosong",
-"ADMOB_NATIV" : "kosong",
+"ADMOB_BANNER" : "ca-app-pub-6055654202257393/7939169073",
+"ADMOB_INTER" : "ca-app-pub-6055654202257393/1177732873",
+"ADMOB_NATIV" : "ca-app-pub-6055654202257393/3420752836",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
