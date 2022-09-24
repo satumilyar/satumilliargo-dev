@@ -59,8 +59,8 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "inter",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4934834",
 
 "APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
