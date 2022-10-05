@@ -1,0 +1,22 @@
+{
+    "pc": "caracekbantuan.bsu.kemnaker.com",
+    "url_blogger": "https://ccekbantuanbsukemnakerterbaru.blogspot.com",
+    "url_privacy_policy": "",
+    "interval_inter": 3,
+    "link_new_app": "null",
+    "admob": [
+      {
+        "banner": "ca",
+        "inter": "ca-",
+        "native": "ca"
+      }
+    ],
+    "unity": [
+      {
+        "mode_tes": false,
+        "idapp": "",
+        "banner": "Banner_Android",
+        "inter": "Interstitial_Android"
+      }
+    ]
+  }
