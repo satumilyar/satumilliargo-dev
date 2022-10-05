@@ -1,0 +1,22 @@
+{
+    "pc": "cara.daftarsubsidi.bbm.com",
+    "url_blogger": "https://daftarbbmsubsidi.blogspot.com/",
+    "url_privacy_policy": "",
+    "interval_inter": 3,
+    "link_new_app": "null",
+    "admob": [
+      {
+        "banner": "",
+        "inter": "",
+        "native": ""
+      }
+    ],
+    "unity": [
+      {
+        "mode_tes": false,
+        "idapp": "",
+        "banner": "Banner_Android",
+        "inter": "Interstitial_Android"
+      }
+    ]
+  }
